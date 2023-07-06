@@ -57,12 +57,12 @@ code {
 
 #contact {
     background-color: #c4cad0;
-    color: white;
+    color: black;
     padding: 30px;
 }
 
 #contact a {
-    color: white;
+    color: blue;
 }
 
 form input,
@@ -112,4 +112,19 @@ main img {
 
 .bg-secondary {
     background-color: black !important;
+}
+
+.card-body {
+    margin-top: 10px;
+}
+
+.btn {
+    margin-bottom: 20px;
+}
+
+.img-fluid {
+    background-color: white;
+}
+
+.col-xs-12 {
 }
